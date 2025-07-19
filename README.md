@@ -1,2 +1,31 @@
-# Tech-Website-Sample
-Tech Services Landing Page A modern, responsive website showcasing IT services like software development, data analytics, cybersecurity, and more. Built using HTML &amp; CSS with smooth UI, hover effects, and a video testimonial section.  ✅ Mobile-friendly ✅ Easy to customize ✅ Ideal for startups or portfolios
+# Tech Services Website 💻✨
+
+A modern and responsive tech services website built using HTML, CSS, and a touch of JavaScript. This site highlights various services offered by a fictional IT company, including consulting, software development, data analytics, and more.
+
+## 🔧 Features
+
+- Responsive hero section with a smooth layout
+- Services section listing 8 core tech offerings
+- Client testimonial section with background video support
+- Clean and professional UI
+- Hover and transition effects for better UX
+
+## 💼 Services Highlighted
+
+- Information Technology Consulting
+- Software Development
+- Data Analytics
+- DBMS
+- Cyber Security
+- Digital Marketing & Social Media Management
+- Website Designing
+- App Development
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. Clone this repository
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
