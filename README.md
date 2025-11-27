@@ -2,6 +2,8 @@
 
 A modern and responsive tech services website built using HTML, CSS, and a touch of JavaScript. This site highlights various services offered by a fictional IT company, including consulting, software development, data analytics, and more.
 
+## Live App Link : https://deft-taiyaki-bd0c22.netlify.app/
+
 ## 🔧 Features
 
 - Responsive hero section with a smooth layout
